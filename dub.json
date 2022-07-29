@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"scone": "~>2.1.3"
+	},
+	"name": "ddonut"
+}
